@@ -15,7 +15,7 @@ data:
         <div class="container">
           <div class="jumbotron mt-5">
             <h1 class="display-4">Welcome!</h1>
-            <p class="lead">I got Synced using ArgoCD. Update! version 1.0.2 It's work!</p>
+            <p class="lead">I got Synced using ArgoCD. Update! version 1.0.1</p>
           </div>
         </div>
       </body>
